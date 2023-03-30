@@ -80,3 +80,5 @@ for i in range(n - 1):
     sum_lost += x
 
 print(sum_n - sum_lost)
+
+gfgh
